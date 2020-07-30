@@ -1,0 +1,19 @@
+﻿
+[
+    {
+            "title":"Good Old Fashioned Pancakes",
+            "category": "Indian",
+            "description":"This is a great recipe that I found in my Grandma's recipe book. Judging from the weathered look of this recipe card, this was a family favorite.",
+            "image":"",
+            "ingredients":"3 ½ teaspoons baking powder,1 teaspoon salt,1 tablespoon white sugar,1 ¼ cups milk,1 egg,3 tablespoons butter, melted" ,
+            "directions": "In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth.Heat a lightly oiled griddle or frying pan over medium high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.",
+            "servings" : 8,
+            "video":"",
+            "time" : "20 minutes",
+            "difficulty": "Easy",
+            "rate": 4.5
+    }
+]
+
+
+
